@@ -477,11 +477,11 @@ button {
 }
 
 .image-1 {
-  background-image: url("./images/box1_image.jpg");
+  background-image: url("./images/box2_image.jpg");
 }
 
 .image-2 {
-  background-image: url("./images/box2_image.jpg");
+  background-image: url("./images/box4_image.jpg");
 }
 
 .image-3 {
@@ -489,7 +489,7 @@ button {
 }
 
 .image-4 {
-  background-image: url("./images/box4_image.jpg");
+  background-image: url("./images/box8_image.jpg");
 }
 
 .image-5 {
@@ -505,7 +505,7 @@ button {
 }
 
 .image-8 {
-  background-image: url("./images/box8_image.jpg");
+  background-image: url("./images/box1_image.jpg");
 }
 
 /* See more */
